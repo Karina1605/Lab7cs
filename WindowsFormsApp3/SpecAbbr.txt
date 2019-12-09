@@ -1,0 +1,8 @@
+﻿Abbreviatures Of Specializations
+  
+BI   - Business Informatics
+MMM  - Mekhanics and Math Modeling
+AIJ  - Applyed Informatics in Jurisprudence
+AMI  - Applied Math and Informatics
+FIIT - Fundamental Infotmatics and IT
+MSAIS- Mathematical Security and Administrating of Intormation Systems

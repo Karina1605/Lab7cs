@@ -1,0 +1,18 @@
+﻿Abbreviatures And Subjects
+
+MA    - MathAnalyses
+Pr    - Programming
+LA    - Lineal Algebra
+IITGA - Integral Informational Technologies Of General Apply
+Web   - Web typesetting
+DM    - Discret Math
+Alg   - Alghotytms
+AG    - Analyse Geometry
+LSP   - Languages Of System Programming
+H     - History
+TP    - Theory Of Posiibility
+Eng   - English
+DS    - Data Sources
+MS    - Math Statistics
+DifEq - Differencial Equivalents
+Ec    - Economics
